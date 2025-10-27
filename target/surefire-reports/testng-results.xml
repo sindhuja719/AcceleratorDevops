@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-27T11:22:28 IST" name="Surefire suite" finished-at="2025-10-27T11:22:28 IST" duration-ms="61">
+    <groups>
+    </groups>
+    <test started-at="2025-10-27T11:22:28 IST" name="Surefire test" finished-at="2025-10-27T11:22:28 IST" duration-ms="61">
+      <class name="com.epam.training.SINDHUJA_GUNDAGANI.AppTest">
+        <test-method signature="testGreetings()[pri:1, instance:com.epam.training.SINDHUJA_GUNDAGANI.AppTest@7fc2413d]" started-at="2025-10-27T11:22:28 IST" name="testGreetings" finished-at="2025-10-27T11:22:28 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGreetings -->
+        <test-method signature="testName()[pri:2, instance:com.epam.training.SINDHUJA_GUNDAGANI.AppTest@7fc2413d]" started-at="2025-10-27T11:22:28 IST" name="testName" finished-at="2025-10-27T11:22:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testName -->
+      </class> <!-- com.epam.training.SINDHUJA_GUNDAGANI.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
